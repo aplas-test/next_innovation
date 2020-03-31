@@ -1,23 +1,27 @@
 {
-  "id": "next_innovation",
-  "name": "Next Innovation",
-  "categoryId": "core",
-  "description": "Focused foreground structure",
-  "investment_24m": "466",
-  "hostedtype": "OnPremise",
-  "vendor_contact_name": "Tabbi Dows",
-  "licensing_cost": "228",
-  "status_color": "#00FF00",
-  "type": "OffShelf",
-  "support_cost": "91",
-  "deployment_date": "30/10/14",
-  "end_of_maintenance": "9/12/17",
-  "department": "Product Management",
-  "status": "Active",
-  "end_of_life": "3/1/19",
-  "vendor_email": "Tabbi.Dows@CadenceSystems.com",
-  "months_to_renew_support": "4",
-  "sme_email": "Collen.Tatlowe@memento.net.au",
-  "vendor_phone": "+62 629 504 7655",
-  "investment_number": "147"
+  "applications": [
+    {
+      "id": "next_innovation",
+      "name": "Next Innovation",
+      "categoryId": "core",
+      "description": "Focused foreground structure",
+      "investment_24m": "466",
+      "hostedtype": "OnPremise",
+      "vendor_contact_name": "Tabbi Dows",
+      "licensing_cost": "228",
+      "status_color": "#00FF00",
+      "type": "OffShelf",
+      "support_cost": "91",
+      "deployment_date": "30/10/14",
+      "end_of_maintenance": "9/12/17",
+      "department": "Product Management",
+      "status": "Active",
+      "end_of_life": "3/1/19",
+      "vendor_email": "Tabbi.Dows@CadenceSystems.com",
+      "months_to_renew_support": "4",
+      "sme_email": "Collen.Tatlowe@memento.net.au",
+      "vendor_phone": "+62 629 504 7655",
+      "investment_number": "147"
+    }
+  ]
 }
